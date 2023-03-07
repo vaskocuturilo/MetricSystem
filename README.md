@@ -31,4 +31,4 @@ You will need the following technologies available to try it out:
 
 - Create functionality for metric USA/United Kingdom systems. 
 
-![](https://ibb.co/xgtk3zk)
+![alt tag](https://ibb.co/xgtk3zk)
